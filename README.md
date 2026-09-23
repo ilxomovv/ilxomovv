@@ -17,9 +17,10 @@
   </p>
 
   <!-- Profil ko'rishlar soni -->
+
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square&label=Profile+Views" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&reversal=false" width="100%" />
+</p>
 
 </div>
 
@@ -42,8 +43,6 @@
   </a>
 </p>
 
----
-
 <br />
 
 <div align="center">
@@ -51,8 +50,6 @@
   <!-- Faollik kunlari (Streak Stats) -->
   
 </div>
-
----
 
 
 
