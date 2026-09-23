@@ -1,34 +1,53 @@
 <div align="center">
 
-  <!-- Yoziluvchi animatsiyali sarlavha -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Assalomu+alaykum!+👋;Men+Asadbek;Frontend+Developer+🚀;React+%26+TypeScript+Dev" alt="Typing SVG" />
+  <!-- Banner (Aesthetic/Anime dark banner) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Hi,%20I'm%20Yusuf!&fontSize=42&fontColor=58a6ff&animation=twinkle" width="100%" />
 
   <br />
 
-  <!-- Profil ko'rishlar soni sketchi -->
-  ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7928CA&style=for-the-badge)
+  <!-- Ijtimoiy tarmoq va aloqa tugmalari -->
+  <p align="center">
+    <a href="https://t.me/telegram_username"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="mailto:emailingiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+
+  <!-- Profil ko'rishlar soni -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square&label=Profile+Views" />
+  </p>
 
 </div>
 
 ---
 
-### 🚀 Texnologiyalar va instrumellar (Tech Stack)
+### 💻 Men haqimda (About Me)
+
+- 🇺🇿 Joylashuv: **Jizzax, O'zbekiston**
+- 🚀 Soha: **Frontend Developer** (React, TypeScript)
+- 🎓 Maqsad: **Full Stack Developer** darajasiga etishish
+- ⚡ Qiziqishlar: Veb-dasturlash, zamonaviy texnologiyalar va anime/kodlash
+
+---
+
+### 🛠️ Texnologiyalar (Languages & Tools)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,tailwind,bootstrap,git,github,vscode,figma,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,tailwind,bootstrap,git,github,vscode,vercel,netlify&theme=dark" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Statistikam
+### 📊 GitHub Statistikam (Stats)
 
 <div align="center">
 
-  <!-- GitHub umumiy statistikasi va tillar ulushi -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial&hide_border=true&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radial&hide_border=true&title_color=00F5D4&text_color=FFFFFF&bg_color=0D1117" />
+  <!-- Umumiy statistikalar -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+  
+  <!-- Eng ko'p ishlatilgan tillar -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
@@ -36,31 +55,21 @@
 
 <div align="center">
 
-  <!-- Ketma-ket faollik kunlari (Streak Stats) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radial&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakNum=FFFFFF" alt="GitHub Streak" />
+  <!-- Faollik kunlari (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 🔥 Faollik Grafigi (Contribution Graph)
+### 📈 Faollik Grafigi (Contribution Graph)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-### 📬 Aloqa uchun
-
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:your_email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
+  <i>⚡ Dasturlash va izlanishda davom etamiz!</i>
 </p>
