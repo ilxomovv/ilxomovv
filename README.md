@@ -18,9 +18,7 @@
 
   <!-- Profil ko'rishlar soni -->
 
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&reversal=false" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=header&reversal=false" width="100%" />
 
 </div>
 
