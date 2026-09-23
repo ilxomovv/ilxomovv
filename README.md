@@ -23,7 +23,7 @@
 ### 💻 Men haqimda (About Me)
 
 - 🇺🇿 Joylashuv: **Jizzax, O'zbekiston**
-- 🚀 Soha: **Frontend Developer** (React, TypeScript)
+- 🚀 Soha: **Frontend Developer** (React, Javascript)
 - 🎓 Maqsad: **Full Stack Developer** darajasiga etishish
 - ⚡ Qiziqishlar: Veb-dasturlash, zamonaviy texnologiyalar va anime/kodlash
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,tailwind,bootstrap,git,github,vscode,vercel,netlify&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,git,react&theme=dark" />
   </a>
 </p>
 
@@ -44,10 +44,11 @@
 <div align="center">
 
   <!-- Umumiy statistikalar -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-  
-  <!-- Eng ko'p ishlatilgan tillar -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -56,17 +57,14 @@
 <div align="center">
 
   <!-- Faollik kunlari (Streak Stats) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff" alt="GitHub Streak" />
-
+  
 </div>
 
 ---
 
 ### 📈 Faollik Grafigi (Contribution Graph)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" width="100%" />
-</p>
+
 
 ---
 
