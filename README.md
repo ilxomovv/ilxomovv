@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Animatsiooniga tervitus pealkiri -->
+  <!-- Yoziluvchi animatsiyali sarlavha -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Assalomu+alaykum!+👋;Men+Asadbek;Frontend+Developer+🚀;React+%26+TypeScript+Dev" alt="Typing SVG" />
 
   <br />
 
-  <!-- Profiili vaatamiste lugeja -->
+  <!-- Profil ko'rishlar soni sketchi -->
   ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7928CA&style=for-the-badge)
 
 </div>
 
 ---
 
-### 🚀 Tehnoloogiad ja tööriistad
+### 🚀 Texnologiyalar va instrumellar (Tech Stack)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,11 +22,11 @@
 
 ---
 
-### 📊 Minu GitHubi statistika
+### 📊 GitHub Statistikam
 
 <div align="center">
 
-  <!-- GitHubi üldine statistika ja keelte jaotus kõrvuti -->
+  <!-- GitHub umumiy statistikasi va tillar ulushi -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial&hide_border=true&title_color=00F5D4&icon_color=00F5D4&text_color=FFFFFF&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radial&hide_border=true&title_color=00F5D4&text_color=FFFFFF&bg_color=0D1117" />
 
@@ -36,14 +36,14 @@
 
 <div align="center">
 
-  <!-- Aktiivsuse streagid (Streak Stats) -->
+  <!-- Ketma-ket faollik kunlari (Streak Stats) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radial&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakNum=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 🔥 Panuste graafik (Contribution Graph)
+### 🔥 Faollik Grafigi (Contribution Graph)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%" />
@@ -51,7 +51,7 @@
 
 ---
 
-### 📬 Võta ühendust
+### 📬 Aloqa uchun
 
 <p align="center">
   <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
